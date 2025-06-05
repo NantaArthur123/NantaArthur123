@@ -24,7 +24,8 @@ I mostly use Java, but when building web or Android apps, I work with a variety 
 | [Recipe App](https://github.com/NantaArthur123/recipe-app) | Multi-language recipe book to store and share recipe | Android | Working on | Svelte, TypeScript, Tailwind CSS, PostgreSQL, React-intl |
 | [Card collecting discord game](https://github.com/NantaArthur123/LostMyth) | Card collecting discord game using godot | Android, Windows | Working on | Godot 4 |
 | Math Alarm | You cannot wake up due to unreliable alarm? try math alarm, to turn off the alarm you need to solve math problem >:D | Android | Running | Kotlin, Android Studio |
-|[Interview Coding Task](https://github.com/NantaArthur123/InterviewCodingTask)|Coding task for every interview I have done|-|Haven't touch this yet :(||
+|[Interview Coding Task](https://github.com/NantaArthur123/InterviewCodingTask)|Coding task for every interview I have done|-|Haven't touch this yet :(|-|
+|[Portfolio](https://github.com/NantaArthur123/Portfolio)|My current portfolio|Web-app|Working on|Svelte, Typescript, Javascript, Tailwind CSS, Svelte-Kit|
 
 Working on = WIP </br>
 Running = The app is still working just fine and still receiving update </br>
