@@ -16,6 +16,8 @@ I mostly use Java, but when building web or Android apps, I work with a variety 
 
 </br>
 
+![10PULL](/images/10Pull.png)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=5000&color=D6D7F7&width=435&lines=My+Current+Fun+Projects)](https://git.io/typing-svg)
 </br>
 | Project Name | Description | Platform | Status |Language/Framework|
